@@ -100,7 +100,3 @@ This API was developed based on:
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Certificate
-
-
-[Certificate](https://www.udemy.com/certificate/UC-CYMYZILZ/)
